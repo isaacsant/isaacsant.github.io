@@ -1,20 +1,20 @@
 # Site settings
-email: 
+email: "isaac.j.sant@gmail.com" 
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-84586043-1
 
 # SEO settings
-title: Trophy
+title: isaacsant.com
 description: 
-url: ""
-twitter_username: 
-default_img: 
+url: "http://isaacsant.com"
+twitter_username: isaacjsant
+default_img: https://octodex.github.com/images/codercat.jpg
 
 # Profile settings
-name: 
-profile_img: 
+name: Isaac sant
+profile_img: https://octodex.github.com/images/codercat.jpg
 profile: 
 social:
   github: 
